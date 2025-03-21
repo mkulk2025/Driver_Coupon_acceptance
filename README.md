@@ -48,7 +48,7 @@ Leaving the column alone, if we remove the null values from rest of the five col
 
 #2 Based on the shape, and after removing the duplicates and the null values, 41.19 % of the coupons were accepted. 
 
-#3 Based on the df_bar.info(), less than three includes never (788), less1(546), and 1~3(379) counts.  For this group the acceptance ratio is - 37.25
+#3 Based on the df_bar.info(), less than three includes never (788), less1(546), and "1~3"(379) counts.  For this group the acceptance ratio is - 37.25
   Next- calculate the acceptance for category who went more than 3 which include 4~8 (147) and gt8(46)  For this group the acceptance ratio comes out to be - 76.17
   Conclusion:  People who went to bar 4plus time has acceptance 2.04 times compared to who went to the bar less than 3 times. This means people who go to the bar 4+ times are like to accept the coupon often. 
 
